@@ -1,0 +1,233 @@
+Added Component: Designator=C1(CAPC1608X90X35ML10T15)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "GCM1885C2A101JA16D"; VariantName = "[No Variations]"
+Added Component: Designator=C2(CAPC1608X90X35ML10T15)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "GCM1885C2A101JA16D"; VariantName = "[No Variations]"
+Added Component: Designator=C3(CAPC1608X90X35ML10T15)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "GCM1885C2A101JA16D"; VariantName = "[No Variations]"
+Added Component: Designator=C4(CAPC1608X90X35ML10T15)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "GCM1885C2A101JA16D"; VariantName = "[No Variations]"
+Added Component: Designator=C5(CAPC1608X90X35ML10T15)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "GCM1885C2A101JA16D"; VariantName = "[No Variations]"
+Added Component: Designator=C6(CAPC1608X90X35ML10T15)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "GCM1885C2A101JA16D"; VariantName = "[No Variations]"
+Added Component: Designator=C7(CAPC1608X90X35ML10T15)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "GCM1885C2A101JA16D"; VariantName = "[No Variations]"
+Added Component: Designator=C8(CAPC1608X90X35ML10T15)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "GCM1885C2A101JA16D"; VariantName = "[No Variations]"
+Added Component: Designator=F1(PTC 0603)
+Added Component: Designator=F2(PTC 0603)
+Added Component: Designator=H1(DIP7*2)
+Added Component: Designator=K1(USB A)
+Added Component: Designator=K2(USB A)
+Added Component: Designator=R1(RESC1608X55X30ML20T10)
+Add component (AddParameter): Name = "Manufacturer"; Value = "KOA Speer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RK73H1JTTD5101F"; VariantName = "[No Variations]"
+Added Component: Designator=R2(RESC1608X55X30ML20T10)
+Add component (AddParameter): Name = "Manufacturer"; Value = "KOA Speer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RK73H1JTTD5101F"; VariantName = "[No Variations]"
+Added Component: Designator=R3(RESC1608X55X30ML20T10)
+Add component (AddParameter): Name = "Manufacturer"; Value = "KOA Speer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RK73H1JTTD5101F"; VariantName = "[No Variations]"
+Added Component: Designator=R4(RESC1608X55X30ML20T10)
+Add component (AddParameter): Name = "Manufacturer"; Value = "KOA Speer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RK73H1JTTD5101F"; VariantName = "[No Variations]"
+Added Component: Designator=SP1(SC70-3)
+Added Component: Designator=SP2(SC70-3)
+Added Component: Designator=T1(TJA1052)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "New link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://lcsc.com/product-detail/CAN-ICs_NXP-Semicon_TJA1052IT-5Y_NXP-Semicon-TJA1052IT-5Y_C92210.html"; VariantName = "[No Variations]"
+Added Component: Designator=T2(TJA1052)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "New link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://lcsc.com/product-detail/CAN-ICs_NXP-Semicon_TJA1052IT-5Y_NXP-Semicon-TJA1052IT-5Y_C92210.html"; VariantName = "[No Variations]"
+Added Component: Designator=U1(Dip4 package)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "New link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://lcsc.com/product-detail/Power-Modules_B0505S-1WR3_C131038.html"; VariantName = "[No Variations]"
+Added Component: Designator=U2(Dip4 package)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "New link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://lcsc.com/product-detail/Power-Modules_B0505S-1WR3_C131038.html"; VariantName = "[No Variations]"
+Added Component: Designator=U3(SOIC-SO18_N)
+Add component (AddParameter): Name = "Code_JEDEC"; Value = "MS-013"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.microchip.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://ww1.microchip.com/downloads/en/DeviceDoc/21801f.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Package Specification"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.microchip.com/stellent/groups/techpub_sg/documents/packagingspec/en012702.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "revF, Oct-2010"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "18-Lead Plastic Small Outline (SO) - Wide 7.50mm Body [SOIC]"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "SOIC-SO18"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "revBB, Aug-2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RevisionNote"; Value = "URLs added. DatasheetVersion updated."; VariantName = "[No Variations]"
+Added Component: Designator=U4(SOIC-SO18_N)
+Add component (AddParameter): Name = "Code_JEDEC"; Value = "MS-013"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.microchip.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://ww1.microchip.com/downloads/en/DeviceDoc/21801f.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Package Specification"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.microchip.com/stellent/groups/techpub_sg/documents/packagingspec/en012702.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "revF, Oct-2010"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "18-Lead Plastic Small Outline (SO) - Wide 7.50mm Body [SOIC]"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "SOIC-SO18"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "revBB, Aug-2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RevisionNote"; Value = "URLs added. DatasheetVersion updated."; VariantName = "[No Variations]"
+Added Component: Designator=Y1(SMD-5032_2P)
+Added Component: Designator=Y2(SMD-5032_2P)
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=GND Pin=C3-2
+Added Pin To Net: NetName=GND Pin=H1-8
+Added Pin To Net: NetName=GND Pin=T1-GND1
+Added Pin To Net: NetName=GND Pin=T1-GND1
+Added Pin To Net: NetName=GND Pin=T1-GND1
+Added Pin To Net: NetName=GND Pin=T2-GND1
+Added Pin To Net: NetName=GND Pin=T2-GND1
+Added Pin To Net: NetName=GND Pin=T2-GND1
+Added Pin To Net: NetName=GND Pin=U1-1
+Added Pin To Net: NetName=GND Pin=U2-1
+Added Net: Name=GND
+Added Pin To Net: NetName=NetC1_1 Pin=C1-1
+Added Pin To Net: NetName=NetC1_1 Pin=C3-1
+Added Pin To Net: NetName=NetC1_1 Pin=F1-1
+Added Pin To Net: NetName=NetC1_1 Pin=F2-1
+Added Pin To Net: NetName=NetC1_1 Pin=H1-1
+Added Pin To Net: NetName=NetC1_1 Pin=T1-Vdd1
+Added Pin To Net: NetName=NetC1_1 Pin=T2-Vdd1
+Added Net: Name=NetC1_1
+Added Pin To Net: NetName=NetC2_1 Pin=C2-1
+Added Pin To Net: NetName=NetC2_1 Pin=R2-1
+Added Pin To Net: NetName=NetC2_1 Pin=T1-Vdd2
+Added Pin To Net: NetName=NetC2_1 Pin=T1-Vdd2
+Added Pin To Net: NetName=NetC2_1 Pin=U1-4
+Added Pin To Net: NetName=NetC2_1 Pin=U3-18
+Added Net: Name=NetC2_1
+Added Pin To Net: NetName=NetC2_2 Pin=C2-2
+Added Pin To Net: NetName=NetC2_2 Pin=C5-1
+Added Pin To Net: NetName=NetC2_2 Pin=C6-1
+Added Pin To Net: NetName=NetC2_2 Pin=K1-4
+Added Pin To Net: NetName=NetC2_2 Pin=R1-1
+Added Pin To Net: NetName=NetC2_2 Pin=SP1-3
+Added Pin To Net: NetName=NetC2_2 Pin=T1-GND2
+Added Pin To Net: NetName=NetC2_2 Pin=T1-GND2
+Added Pin To Net: NetName=NetC2_2 Pin=T1-GND2
+Added Pin To Net: NetName=NetC2_2 Pin=T1-STB
+Added Pin To Net: NetName=NetC2_2 Pin=U1-3
+Added Pin To Net: NetName=NetC2_2 Pin=U3-9
+Added Net: Name=NetC2_2
+Added Pin To Net: NetName=NetC4_1 Pin=C4-1
+Added Pin To Net: NetName=NetC4_1 Pin=R4-1
+Added Pin To Net: NetName=NetC4_1 Pin=T2-Vdd2
+Added Pin To Net: NetName=NetC4_1 Pin=T2-Vdd2
+Added Pin To Net: NetName=NetC4_1 Pin=U2-4
+Added Pin To Net: NetName=NetC4_1 Pin=U4-18
+Added Net: Name=NetC4_1
+Added Pin To Net: NetName=NetC4_2 Pin=C4-2
+Added Pin To Net: NetName=NetC4_2 Pin=C7-1
+Added Pin To Net: NetName=NetC4_2 Pin=C8-1
+Added Pin To Net: NetName=NetC4_2 Pin=K2-4
+Added Pin To Net: NetName=NetC4_2 Pin=R3-1
+Added Pin To Net: NetName=NetC4_2 Pin=SP2-3
+Added Pin To Net: NetName=NetC4_2 Pin=T2-GND2
+Added Pin To Net: NetName=NetC4_2 Pin=T2-GND2
+Added Pin To Net: NetName=NetC4_2 Pin=T2-GND2
+Added Pin To Net: NetName=NetC4_2 Pin=T2-STB
+Added Pin To Net: NetName=NetC4_2 Pin=U2-3
+Added Pin To Net: NetName=NetC4_2 Pin=U4-9
+Added Net: Name=NetC4_2
+Added Pin To Net: NetName=NetC5_2 Pin=C5-2
+Added Pin To Net: NetName=NetC5_2 Pin=U3-8
+Added Pin To Net: NetName=NetC5_2 Pin=Y1-1
+Added Net: Name=NetC5_2
+Added Pin To Net: NetName=NetC6_2 Pin=C6-2
+Added Pin To Net: NetName=NetC6_2 Pin=U3-7
+Added Pin To Net: NetName=NetC6_2 Pin=Y1-2
+Added Net: Name=NetC6_2
+Added Pin To Net: NetName=NetC7_2 Pin=C7-2
+Added Pin To Net: NetName=NetC7_2 Pin=U4-8
+Added Pin To Net: NetName=NetC7_2 Pin=Y2-1
+Added Net: Name=NetC7_2
+Added Pin To Net: NetName=NetC8_2 Pin=C8-2
+Added Pin To Net: NetName=NetC8_2 Pin=U4-7
+Added Pin To Net: NetName=NetC8_2 Pin=Y2-2
+Added Net: Name=NetC8_2
+Added Pin To Net: NetName=NetF1_2 Pin=F1-2
+Added Pin To Net: NetName=NetF1_2 Pin=U1-2
+Added Net: Name=NetF1_2
+Added Pin To Net: NetName=NetF2_2 Pin=F2-2
+Added Pin To Net: NetName=NetF2_2 Pin=U2-2
+Added Net: Name=NetF2_2
+Added Pin To Net: NetName=NetH1_2 Pin=H1-2
+Added Pin To Net: NetName=NetH1_2 Pin=U3-13
+Added Net: Name=NetH1_2
+Added Pin To Net: NetName=NetH1_3 Pin=H1-3
+Added Pin To Net: NetName=NetH1_3 Pin=U3-14
+Added Net: Name=NetH1_3
+Added Pin To Net: NetName=NetH1_4 Pin=H1-4
+Added Net: Name=NetH1_4
+Added Pin To Net: NetName=NetH1_5 Pin=H1-5
+Added Net: Name=NetH1_5
+Added Pin To Net: NetName=NetH1_6 Pin=H1-6
+Added Net: Name=NetH1_6
+Added Pin To Net: NetName=NetH1_7 Pin=H1-7
+Added Pin To Net: NetName=NetH1_7 Pin=U4-13
+Added Net: Name=NetH1_7
+Added Pin To Net: NetName=NetH1_9 Pin=H1-9
+Added Pin To Net: NetName=NetH1_9 Pin=U3-15
+Added Net: Name=NetH1_9
+Added Pin To Net: NetName=NetH1_10 Pin=H1-10
+Added Net: Name=NetH1_10
+Added Pin To Net: NetName=NetH1_11 Pin=H1-11
+Added Net: Name=NetH1_11
+Added Pin To Net: NetName=NetH1_12 Pin=H1-12
+Added Net: Name=NetH1_12
+Added Pin To Net: NetName=NetH1_13 Pin=H1-13
+Added Pin To Net: NetName=NetH1_13 Pin=U4-15
+Added Net: Name=NetH1_13
+Added Pin To Net: NetName=NetH1_14 Pin=H1-14
+Added Pin To Net: NetName=NetH1_14 Pin=U4-14
+Added Net: Name=NetH1_14
+Added Pin To Net: NetName=NetK1_1 Pin=K1-1
+Added Pin To Net: NetName=NetK1_1 Pin=SP1-2
+Added Pin To Net: NetName=NetK1_1 Pin=T1-CANL
+Added Net: Name=NetK1_1
+Added Pin To Net: NetName=NetK1_2 Pin=K1-2
+Added Pin To Net: NetName=NetK1_2 Pin=SP1-1
+Added Pin To Net: NetName=NetK1_2 Pin=T1-CANH
+Added Net: Name=NetK1_2
+Added Pin To Net: NetName=NetK2_1 Pin=K2-1
+Added Pin To Net: NetName=NetK2_1 Pin=SP2-2
+Added Pin To Net: NetName=NetK2_1 Pin=T2-CANL
+Added Net: Name=NetK2_1
+Added Pin To Net: NetName=NetK2_2 Pin=K2-2
+Added Pin To Net: NetName=NetK2_2 Pin=SP2-1
+Added Pin To Net: NetName=NetK2_2 Pin=T2-CANH
+Added Net: Name=NetK2_2
+Added Pin To Net: NetName=NetR1_2 Pin=R1-2
+Added Pin To Net: NetName=NetR1_2 Pin=R2-2
+Added Pin To Net: NetName=NetR1_2 Pin=U3-16
+Added Net: Name=NetR1_2
+Added Pin To Net: NetName=NetR3_2 Pin=R3-2
+Added Pin To Net: NetName=NetR3_2 Pin=R4-2
+Added Pin To Net: NetName=NetR3_2 Pin=U4-16
+Added Net: Name=NetR3_2
+Added Pin To Net: NetName=NetT1_RXD Pin=T1-RXD
+Added Pin To Net: NetName=NetT1_RXD Pin=U3-2
+Added Net: Name=NetT1_RXD
+Added Pin To Net: NetName=NetT1_TXD Pin=T1-TXD
+Added Pin To Net: NetName=NetT1_TXD Pin=U3-1
+Added Net: Name=NetT1_TXD
+Added Pin To Net: NetName=NetT2_RXD Pin=T2-RXD
+Added Pin To Net: NetName=NetT2_RXD Pin=U4-2
+Added Net: Name=NetT2_RXD
+Added Pin To Net: NetName=NetT2_TXD Pin=T2-TXD
+Added Pin To Net: NetName=NetT2_TXD Pin=U4-1
+Added Net: Name=NetT2_TXD
+Added Class: Name=extensionBoard
+Added Class: Name=logic

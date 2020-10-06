@@ -1,0 +1,68 @@
+Added Component: Designator=L1(Z3535RGBA)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "New link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://lcsc.com/product-detail/Light-Emitting-Diodes-LED_SMDLED-120-480mcd_C110903.html"; VariantName = "[No Variations]"
+Added Component: Designator=L2(Z3535RGBA)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "New link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://lcsc.com/product-detail/Light-Emitting-Diodes-LED_SMDLED-120-480mcd_C110903.html"; VariantName = "[No Variations]"
+Added Component: Designator=R5(RESC1608X55X30ML20T10)
+Add component (AddParameter): Name = "Manufacturer"; Value = "KOA Speer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RK73H1JTTD5101F"; VariantName = "[No Variations]"
+Added Component: Designator=R6(RESC1608X55X30ML20T10)
+Add component (AddParameter): Name = "Manufacturer"; Value = "KOA Speer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RK73H1JTTD5101F"; VariantName = "[No Variations]"
+Added Component: Designator=R7(RESC1608X55X30ML20T10)
+Add component (AddParameter): Name = "Manufacturer"; Value = "KOA Speer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RK73H1JTTD5101F"; VariantName = "[No Variations]"
+Added Component: Designator=R8(RESC1608X55X30ML20T10)
+Add component (AddParameter): Name = "Manufacturer"; Value = "KOA Speer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RK73H1JTTD5101F"; VariantName = "[No Variations]"
+Added Component: Designator=R9(RESC1608X55X30ML20T10)
+Add component (AddParameter): Name = "Manufacturer"; Value = "KOA Speer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RK73H1JTTD5101F"; VariantName = "[No Variations]"
+Added Component: Designator=R10(RESC1608X55X30ML20T10)
+Add component (AddParameter): Name = "Manufacturer"; Value = "KOA Speer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RK73H1JTTD5101F"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC1_1 Pin=L1-B+
+Added Pin To Net: NetName=NetC1_1 Pin=L1-G+
+Added Pin To Net: NetName=NetC1_1 Pin=L1-R+
+Added Pin To Net: NetName=NetC1_1 Pin=L2-B+
+Added Pin To Net: NetName=NetC1_1 Pin=L2-G+
+Added Pin To Net: NetName=NetC1_1 Pin=L2-R+
+Added Pin To Net: NetName=NetL1_B- Pin=L1-B-
+Added Pin To Net: NetName=NetL1_B- Pin=R9-1
+Added Net: Name=NetL1_B-
+Added Pin To Net: NetName=NetL1_G- Pin=L1-G-
+Added Pin To Net: NetName=NetL1_G- Pin=R7-1
+Added Net: Name=NetL1_G-
+Added Pin To Net: NetName=NetL1_R- Pin=L1-R-
+Added Pin To Net: NetName=NetL1_R- Pin=R5-1
+Added Net: Name=NetL1_R-
+Added Pin To Net: NetName=NetL2_B- Pin=L2-B-
+Added Pin To Net: NetName=NetL2_B- Pin=R10-1
+Added Net: Name=NetL2_B-
+Added Pin To Net: NetName=NetL2_G- Pin=L2-G-
+Added Pin To Net: NetName=NetL2_G- Pin=R8-1
+Added Net: Name=NetL2_G-
+Added Pin To Net: NetName=NetL2_R- Pin=L2-R-
+Added Pin To Net: NetName=NetL2_R- Pin=R6-1
+Added Net: Name=NetL2_R-
+Added Pin To Net: NetName=NetR5_2 Pin=R5-2
+Added Net: Name=NetR5_2
+Added Pin To Net: NetName=NetR6_2 Pin=R6-2
+Added Net: Name=NetR6_2
+Added Pin To Net: NetName=NetR7_2 Pin=R7-2
+Added Net: Name=NetR7_2
+Added Pin To Net: NetName=NetR8_2 Pin=R8-2
+Added Net: Name=NetR8_2
+Added Pin To Net: NetName=NetR9_2 Pin=R9-2
+Added Net: Name=NetR9_2
+Added Pin To Net: NetName=NetR10_2 Pin=R10-2
+Added Net: Name=NetR10_2
+Added Member To Class: ClassName=extensionBoard Member=Component L1 FM-Z3535RGBA-SH
+Added Member To Class: ClassName=extensionBoard Member=Component L2 FM-Z3535RGBA-SH
+Added Member To Class: ClassName=extensionBoard Member=Component R5 200Om
+Added Member To Class: ClassName=extensionBoard Member=Component R6 200Om
+Added Member To Class: ClassName=extensionBoard Member=Component R7 255Om
+Added Member To Class: ClassName=extensionBoard Member=Component R8 255Om
+Added Member To Class: ClassName=extensionBoard Member=Component R9 402Om
+Added Member To Class: ClassName=extensionBoard Member=Component R10 402Om
